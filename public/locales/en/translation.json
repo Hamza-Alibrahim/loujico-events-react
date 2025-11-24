@@ -1,0 +1,480 @@
+{
+  "home": {
+    "title": "Yousef Allouji Trading Establishment",
+    "subtitle": "Your Partner in Event Management",
+    "description": "Towards creative horizons... where ideas become tangible reality",
+    "mission": "\"Yousef Allouji Trading Establishment\" - Your strategic partner towards excellence in event and exhibition management. We provide integrated solutions that combine creativity and precision to transform your vision into an exceptional experience that leaves a lasting impact.",
+    "whyChooseUs": "Why We Are The Optimal Choice?",
+    "stats": {
+      "successfulProjects": "Successful Projects",
+      "customerSatisfaction": "Customer Satisfaction Rate",
+      "onTimeCompletion": "On-Time Completion",
+      "specializedTeam": "Specialized Team"
+    },
+    "cta": "Contact Us"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "achievements": "Achievements",
+    "team": "Our Team",
+    "contact": "Contact"
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  },
+  "footer": {
+    "brand": {
+      "name": "Yousef Allouji Establishment",
+      "description": "Your strategic partner towards excellence in event and exhibition management. We provide integrated solutions that combine creativity and precision."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "projects": "Projects",
+      "achievements": "Achievements",
+      "team": "Our Team",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Our Services",
+      "eventManagement": "Comprehensive Event Management",
+      "eventOrganization": "Event Organization & Design",
+      "exhibitionOperation": "Exhibition & Booth Operation",
+      "marketing": "Marketing & Promotion"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "phoneValue": "+963 996 320 963",
+      "emailValue": "info@yousefallouji.com",
+      "addressValue": "Abu Rummaneh - Damascus - Syria"
+    },
+    "social": {
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram"
+    },
+    "bottom": {
+      "copyright": "© {year} Yousef Allouji Trading Establishment. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "about": {
+    "title": "About Company",
+    "subtitle": "Making a difference through excellence and creativity",
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the most trusted and innovative partner in the events and exhibitions industry locally and regionally."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Providing comprehensive creative solutions that transform our clients' ideas into exceptional real-world experiences, through a professional team, precise execution, and the latest technologies."
+    },
+    "stats": {
+      "projects": "Successful Projects",
+      "team": "Specialized Team Members",
+      "satisfaction": "Customer Satisfaction Rate",
+      "experience": "Years of Experience"
+    },
+    "culture": {
+      "title": "Work Culture",
+      "subtitle": "Our core values that distinguish us and guide us in everything we do"
+    },
+    "values": {
+      "innovation": {
+        "title": "Innovation in Everything We Offer",
+        "description": "We always seek new and innovative ways to provide unique solutions"
+      },
+      "precision": {
+        "title": "Precision in Execution",
+        "description": "We pay attention to the finest details to ensure quality and perfection in execution"
+      },
+      "transparency": {
+        "title": "Transparency in Dealings",
+        "description": "Honesty and clarity are the foundation of our relationships with clients and partners"
+      },
+      "punctuality": {
+        "title": "Commitment to Deadlines",
+        "description": "We respect our schedules and commit to delivering projects on time"
+      },
+      "quality": {
+        "title": "Service Quality",
+        "description": "We strive for excellence in every service we provide to exceed customer expectations"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Integrated solutions combining creativity and precision",
+    "process": {
+      "title": "How We Work Together?",
+      "description": "An organized collaboration journey ensuring the success of your event from planning to execution",
+      "steps": [
+        {
+          "title": "Listening",
+          "description": "We deeply understand your goals and requirements"
+        },
+        {
+          "title": "Planning",
+          "description": "We develop a comprehensive strategic action plan"
+        },
+        {
+          "title": "Execution",
+          "description": "We implement with high precision and professionalism"
+        },
+        {
+          "title": "Follow-up",
+          "description": "We provide periodic and comprehensive reports"
+        }
+      ]
+    },
+    "services": {
+      "title": "Our Integrated Services",
+      "description": "We provide a comprehensive range of professional services covering all aspects of event and exhibition management",
+      "comprehensive": {
+        "title": "Comprehensive Event Management",
+        "description": "We provide integrated solutions to manage your events from start to finish",
+        "features": [
+          "Strategic planning and budgeting",
+          "Full supervision from idea to execution",
+          "Risk and project management"
+        ]
+      },
+      "organization": {
+        "title": "Event Organization and Design",
+        "description": "We transform your ideas into unforgettable exceptional visual experiences",
+        "features": [
+          "Innovative creative concept design",
+          "Providing and coordinating all elements (decoration, lighting, audio)",
+          "Stage and audience management"
+        ]
+      },
+      "operation": {
+        "title": "Exhibition and Pavilion Operation",
+        "description": "Integrated solutions for operating exhibitions and pavilions with the highest quality standards",
+        "features": [
+          "Engineering design and construction of pavilions",
+          "Human resources and services management",
+          "Operation and coordination of shows within pavilions"
+        ]
+      },
+      "marketing": {
+        "title": "Marketing and Promotion",
+        "description": "We create effective marketing strategies that reach your target audience",
+        "features": [
+          "Visual identity development",
+          "Digital and traditional marketing plans",
+          "Social media and public relations management"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Next Project?",
+      "description": "Contact us today to discuss how we can transform your vision into tangible reality",
+      "button": "Contact Us"
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Achievements we're proud of... experiences we create",
+    "portfolio": {
+      "title": "Our Portfolio of Achievements",
+      "description": "A curated selection of our most prominent projects that reflect our expertise and excellence in the events industry"
+    },
+    "categories": {
+      "mega": {
+        "title": "Mega Projects",
+        "projects": [
+          {
+            "title": "Riyadh Light - Diriyah Gate",
+            "description": "Largest light festival in the region",
+            "features": [
+              "Design and execution of the largest light show in the region",
+              "Management of mega events at a global level",
+              "Coordination of integrated visual and audio shows"
+            ]
+          },
+          {
+            "title": "Formula 1 - Jeddah Corniche",
+            "description": "Largest international sporting event",
+            "features": [
+              "Organization and management of race-related events",
+              "Design and operation of viewing and gathering areas",
+              "Coordination of logistics for the international event"
+            ]
+          }
+        ]
+      },
+      "exhibitions": {
+        "title": "Specialized Exhibitions",
+        "projects": [
+          {
+            "title": "Book Fair - Princess Nourah University",
+            "description": "Largest university book exhibition",
+            "features": [
+              "Design and organization of the largest book fair at the university level",
+              "Management of accompanying cultural events",
+              "Coordination of publisher and author participation"
+            ]
+          },
+          {
+            "title": "Perfume Exhibition - Roshn Expo",
+            "description": "Unique olfactory experience",
+            "features": [
+              "Design of unique interactive olfactory experience",
+              "Organization of display areas and sensory experiences",
+              "Management of international brands"
+            ]
+          }
+        ]
+      },
+      "conferences": {
+        "title": "International Conferences",
+        "projects": [
+          {
+            "title": "Saudi-Chinese Conference",
+            "description": "High-level economic conference",
+            "features": [
+              "Organization of high-level international economic conference",
+              "Management of dialogue and negotiation sessions",
+              "Coordination of services for official delegations"
+            ]
+          },
+          {
+            "title": "Black Hat",
+            "description": "Specialized technical conference",
+            "features": [
+              "Organization of specialized technical conference in cybersecurity",
+              "Management of workshops and technical sessions",
+              "Coordination of international expert participation"
+            ]
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Next Project?",
+      "description": "Let's create an exceptional experience together that matches your excellence",
+      "button": "Contact Us"
+    }
+  },
+  "achievements": {
+    "title": "Our Achievements",
+    "subtitle": "Numbers that demonstrate our excellence... achievements that speak for themselves",
+    "achievements": {
+      "title": "Numbers That Demonstrate Our Excellence",
+      "description": "Real statistics that reflect the level of our clients' trust and our commitment to excellence",
+      "stats": [
+        {
+          "label": "Customer Satisfaction Rate",
+          "description": "Our clients' trust is our true testimony to quality"
+        },
+        {
+          "label": "Project Completion Rate on Time",
+          "description": "We commit to deadlines and respect our clients' time"
+        },
+        {
+          "label": "Successful Events",
+          "description": "Accumulated experience in organizing events of various sizes"
+        },
+        {
+          "label": "Successful Projects",
+          "description": "Rich portfolio of projects that demonstrates our extensive expertise"
+        },
+        {
+          "label": "Visitors in Largest Event",
+          "description": "Ability to manage massive events with the highest quality standards"
+        }
+      ]
+    },
+    "geographic": {
+      "title": "Our Geographic Scope",
+      "description": "Global reach ensuring our services reach everywhere",
+      "local": {
+        "title": "Locally",
+        "locations": [
+          "Riyadh",
+          "Jeddah",
+          "Makkah",
+          "Madinah",
+          "Dammam",
+          "Khobar",
+          "Damascus"
+        ]
+      },
+      "regional": {
+        "title": "Regionally",
+        "locations": ["Malaysia", "Saudi Arabia", "UAE", "Syria"]
+      },
+      "global": {
+        "title": "Globally",
+        "locations": ["Partnerships with institutions in Europe and America"]
+      }
+    },
+    "cta": {
+      "title": "Join Our List of Distinguished Clients",
+      "description": "Let us add a new achievement to your record of accomplishments",
+      "contact": "Contact Us",
+      "projects": "View Our Projects"
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Our real strength... an exceptional team",
+    "introduction": {
+      "title": "Team - Our Real Strength",
+      "description": "An elite group of experts and specialists who combine creativity and experience to achieve our clients' visions and transform ideas into tangible achievements"
+    },
+    "stats": {
+      "team": "Specialized Team",
+      "experience": "Average Years of Experience",
+      "satisfaction": "Customer Satisfaction",
+      "support": "Continuous Support"
+    },
+    "departments": {
+      "title": "Our Team Specializations",
+      "description": "An integrated group of talents and expertise working in harmony to achieve excellence",
+      "managers": {
+        "title": "Project Managers",
+        "description": "Highly experienced professionals",
+        "features": [
+          "Professional project management",
+          "Integrated strategic planning",
+          "Accurate workflow monitoring"
+        ]
+      },
+      "designers": {
+        "title": "Creative Designers",
+        "description": "Transform ideas into reality",
+        "features": [
+          "Creative concept design",
+          "Transforming visions into tangible designs",
+          "Innovating unique visual solutions"
+        ]
+      },
+      "marketing": {
+        "title": "Marketing Specialists",
+        "description": "Create effective campaigns",
+        "features": [
+          "Innovative marketing strategies",
+          "Market and competition analysis",
+          "Impactful advertising campaigns"
+        ]
+      },
+      "decor": {
+        "title": "Decoration Engineers",
+        "description": "Design creative spaces",
+        "features": [
+          "Creative space design",
+          "Integrating aesthetics with functionality",
+          "Precise execution of design concepts"
+        ]
+      },
+      "coordinators": {
+        "title": "Event Coordinators",
+        "description": "Manage details with precision",
+        "features": [
+          "Efficient event organization",
+          "Management of fine details",
+          "Ensuring smooth event flow"
+        ]
+      },
+      "government": {
+        "title": "Government Relations Specialists",
+        "description": "Facilitate procedures",
+        "features": [
+          "Facilitating official procedures",
+          "Building strategic relationships",
+          "Following up on licenses and permits"
+        ]
+      },
+      "relations": {
+        "title": "Relations Team",
+        "description": "High-level access",
+        "features": [
+          "Extensive network of relationships",
+          "Strategic access to partners",
+          "Building sustainable partnerships"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Join Our List of Distinguished Clients",
+      "description": "Let our exceptional team serve you and transform your ideas into real achievements",
+      "contact": "Contact Us",
+      "achievements": "View Our Achievements"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's start the journey of your next project's success together",
+    "process": {
+      "title": "How We Work Together?",
+      "description": "An organized collaboration journey that ensures the success of your project from start to finish",
+      "steps": [
+        {
+          "title": "Listening",
+          "description": "We deeply understand your goals and requirements"
+        },
+        {
+          "title": "Planning",
+          "description": "We develop a comprehensive strategic action plan"
+        },
+        {
+          "title": "Execution",
+          "description": "We implement with high precision and professionalism"
+        },
+        {
+          "title": "Follow-up",
+          "description": "We provide periodic and comprehensive reports"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Information",
+      "description": "Contact us through any of the following channels, we are here to serve you",
+      "info": {
+        "phone": {
+          "title": "Phone",
+          "value": "+963996320963",
+          "link": "tel:+963996320963"
+        },
+        "email": {
+          "title": "Email",
+          "value": "info@yousefallouji.com",
+          "link": "mailto:info@yousefallouji.com"
+        },
+        "website": {
+          "title": "Website",
+          "value": "www.yousef.louji.com",
+          "link": "https://www.yousef.louji.com"
+        },
+        "address": {
+          "title": "Address",
+          "value": "Abu Rummaneh - Damascus - Syria",
+          "link": "https://maps.google.com/?q=Abu Rummaneh - Damascus - Syria"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "description": "Don't hesitate to contact us now, our team is available to answer all your inquiries and help you achieve your vision",
+      "phone": {
+        "text": "Call Us"
+      },
+      "email": {
+        "text": "Send Email"
+      },
+      "responseTime": "We get back to you within 24 hours maximum"
+    }
+  }
+}
