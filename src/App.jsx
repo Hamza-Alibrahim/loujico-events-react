@@ -11,6 +11,7 @@ import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
 import Services from "./pages/Services";
 import Team from "./pages/Team";
+import ScrollToTop from "./components/ScrollToTop"; // Import the component
 
 const App = () => {
   const { i18n } = useTranslation();
@@ -27,6 +28,7 @@ const App = () => {
 
   return (
     <div dir={i18n.language === "ar" ? "rtl" : "ltr"} className="min-h-screen">
+      <ScrollToTop />
       <Navbar />
       <main>
         <Routes>

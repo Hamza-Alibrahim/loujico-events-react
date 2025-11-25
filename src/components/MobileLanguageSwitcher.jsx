@@ -64,7 +64,7 @@ const MobileLanguageSwitcher = () => {
                   key={language.code}
                   onClick={() => switchLanguage(language.code)}
                   className={`w-full flex items-center justify-between px-3 py-2 rounded-lg transition-all duration-300 text-sm ${
-                    i18n.language === language.code
+                    currentLanguage.code === language.code
                       ? "bg-burning-flame/20 text-burning-flame"
                       : "text-palladian/80 hover:text-palladian hover:bg-blue-fantastic/50"
                   } ${index !== languages.length - 1 ? "mb-1" : ""}`}
